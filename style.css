@@ -134,7 +134,7 @@ h3,
 }
 
 /* Completed */
-.task-text {
+#completed-tasks .task-text {
   text-decoration: line-through;
   color: #888;
 }
