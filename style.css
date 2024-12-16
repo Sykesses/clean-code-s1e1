@@ -35,17 +35,22 @@ body {
 .task-row-wrapper {
   display: flex;
 }
-#incomplete-tasks, #completed-tasks {
+#incomplete-tasks,
+#completed-tasks {
   margin: 0;
   padding: 0px;
 }
-.task, h3 {
+.task,
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button{
   outline: none;
 }
-.edit-button, .delete-button, .add-button {
+.edit-button,
+.delete-button,
+.add-button {
   background: none;
   border: 0px;
   color: #888;
